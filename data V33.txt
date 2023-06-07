@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/H4Gqgln.jpg"},
+  {"desc2":"The Doors Mod serves as an expansion to Melon Playground's existing door mechanics, providing players with an extensive collection of interactive doors that can be utilized in various scenarios.","https://iili.io/H40gQ1f.jpg"},
+  {"desc3":"These doors come in different shapes, sizes, and materials, allowing players to incorporate them seamlessly into their gameplay","photo3":"https://iili.io/H40gmeS.jpg"},
+  {"desc4":"Whether it's an elegant wooden door, a futuristic sliding door, or a grand castle gate, the mod offers a diverse range of options to suit different architectural styles and preferences.","photo4":"https://iili.io/H4GqvVI.jpg"},
+  {"desc5":"One of the standout features of the Doors Mod is its extensive customization options. Players can modify various aspects of the doors, including texture, color, size, and sound effects, enabling them to personalize their creations","photo5":"https://iili.io/H40r9I9.jpg"},
+  {"descd":"This flexibility allows players to adapt the doors to different environments, whether it's a modern cityscape, a medieval village, or a futuristic space station.","photod":"https://iili.io/H40gZg4.jpg"}
    ]
  
 }
