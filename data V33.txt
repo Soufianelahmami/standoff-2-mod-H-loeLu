@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2307894-1",
+"yandex_inter":"R-M-2307894-3",
+"yandex_native":"R-M-2307894-2",
+"yandex_reward":"R-M-2307894-4",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
@@ -37,21 +37,21 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
+  {"desc1":"Choose a Game Mode: Launch the game and explore various game modes. Standoff 2 offers several modes, including Deathmatch, Defuse the Bomb, Capture the Flag, Arms Race, and more. Each mode has its own objectives and gameplay style, so find one that suits your preferences.",
    "photo1":"https://iili.io/H4Gqgln.jpg"},
-  {"desc2":"The Doors Mod serves as an expansion to Melon Playground's existing door mechanics, providing players with an extensive collection of interactive doors that can be utilized in various scenarios.","https://iili.io/H40gQ1f.jpg"},
-  {"desc3":"These doors come in different shapes, sizes, and materials, allowing players to incorporate them seamlessly into their gameplay","photo3":"https://iili.io/H40gmeS.jpg"},
-  {"desc4":"Whether it's an elegant wooden door, a futuristic sliding door, or a grand castle gate, the mod offers a diverse range of options to suit different architectural styles and preferences.","photo4":"https://iili.io/H4GqvVI.jpg"},
-  {"desc5":"One of the standout features of the Doors Mod is its extensive customization options. Players can modify various aspects of the doors, including texture, color, size, and sound effects, enabling them to personalize their creations","photo5":"https://iili.io/H40r9I9.jpg"},
-  {"descd":"This flexibility allows players to adapt the doors to different environments, whether it's a modern cityscape, a medieval village, or a futuristic space station.","photod":"https://iili.io/H40gZg4.jpg"}
+  {"desc2":"Select a Team: Before joining a match, you'll need to choose a team. Typically, there are two teams: Counter-Terrorists (CT) and Terrorists (T). The team you select will depend on the game mode and your personal preference","https://iili.io/H40gQ1f.jpg"},
+  {"desc3":"Customize Loadout: Once you've chosen a team, you can customize your loadout. You can equip different weapons, grenades, and equipment that suit your playstyle. Experiment with different combinations to find the loadout that works best for you.","photo3":"https://iili.io/H40gmeS.jpg"},
+  {"desc4":"Understand the Objective: Depending on the game mode, you'll have specific objectives to accomplish. In Defuse the Bomb, for example, CTs need to defuse the bomb planted by Ts, while Ts must protect the bomb until it detonates. Make sure you understand the objectives and work together with your team to achieve them.","photo4":"https://iili.io/H4GqvVI.jpg"},
+  {"desc5":"Communicate and Coordinate: Communication is crucial in Standoff 2. Use the in-game voice chat or text chat to communicate with your teammates. Share information about enemy positions, coordinate strategies, and call out important events during the match","photo5":"https://iili.io/H40r9I9.jpg"},
+  {"descd":"Master Controls and Movement: Familiarize yourself with the game controls and practice your movement. Learn how to aim, shoot, switch weapons, and use grenades effectively. Movement techniques like strafing, crouching, and jumping can give you an advantage in gunfights.","photod":"https://iili.io/H40gZg4.jpg"}
    ]
  
 }
