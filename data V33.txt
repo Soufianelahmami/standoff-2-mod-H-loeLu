@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"Best Чит НА СТАНДОФФ 2 гид","package_name":"com.standoffhelper.standoffhelpermod","icon":"https://iili.io/H6cy6xI.png"},
+  {"name":"Чит НА СТАНДОФФ 2 гид","package_name":"com.standoffgame.standoffmodgame","icon":"https://play-lh.googleusercontent.com/FTdSF1rE_FrjeNdGvTkqoi8C4O6rqqNvtap2vte-lPPnK7GzFxT30lQ83XCw56jC0w=w240-h480-rw"},
+  {"name":"СТАНДОФФ 2 мод Чит ухищрение","package_name":"com.gfxstandoff.toolmenu","icon":"https://play-lh.googleusercontent.com/_ZQ-ZT1eICyudiKwFC5znbZzPGGOAtmNHmgAmez-3gvlzi4awgtdmG7bdHNiCzXDtw=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
