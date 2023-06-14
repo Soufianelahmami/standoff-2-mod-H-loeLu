@@ -45,13 +45,14 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Standoff 2 is a popular first-person shooter game available on various platforms. To play Standoff 2 effectively, follow these general steps",
+   "photo1":"https://iili.io/H6cWLmX.webp"},
+  {"desc2":"Install and Launch the Game: Download Standoff 2 from your respective app store (iOS or Android) or through Steam if you're playing on PC. Once installed, launch the game","photo2":"https://iili.io/H6cWmBf.jpg"},
+  {"desc3":"Familiarize Yourself with the Controls: Take some time to understand the game's controls. You can adjust sensitivity, customize button placements, and choose between different control schemes. Experiment and find what works best for you","photo3":"https://iili.io/H6cXH22.webp"},
+  {"desc4":"Choose a Game Mode: Standoff 2 offers different game modes like Deathmatch, Defuse the Bomb, Capture the Flag, and Arms Race. Select the mode you want to play and jump into a match","photo4":"https://iili.io/H6cXdk7.webp"},
+  {"desc5":"Select a Loadout: Before the match starts, you'll have the opportunity to select your loadout. This includes choosing your primary weapon, secondary weapon, grenades, and equipment. Consider your playstyle and the game mode to make appropriate selections","photo5":"https://iili.io/H6cXKhu.webp"},
+  {"descd":"Practice and Improve: Like any other game, practice is key to improving your skills. Keep playing, learn from your mistakes, and analyze your gameplay to identify areas where you can improve. Watching tutorials or professional players' streams can also provide valuable insights.
+Remember, playing games should be fun, so enjoy your time in Standoff 2, make new friends, and strive to become a better player over time","photod":"https://iili.io/H6cXBBj.webp"}
    ]
  
 }
